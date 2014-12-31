@@ -147,3 +147,4 @@ sound_timer = 0;
 
 //Set the screen for drawing
 drawFlag = true;
+
